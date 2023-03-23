@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/github/license/didi/turbo.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 [![Maven](https://img.shields.io/maven-central/v/com.didiglobal.turbo/turbo.svg)](https://github.com/didi/turbo/releases)
+[![Build Status](https://api.travis-ci.org/didi/turbo.svg?branch=master&status=created)](https://travis-ci.org//didi/turbo)
 [![codecov](https://codecov.io/gh/didi/turbo/branch/master/graph/badge.svg)](https://codecov.io/gh/didi/turbo)
 
 | **星评增长时间线** |

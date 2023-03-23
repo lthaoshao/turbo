@@ -1,4 +1,12 @@
-# Turbo 简介
+# Turbo 
+
+[![License](https://img.shields.io/github/license/didi/turbo.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
+[![Maven](https://img.shields.io/maven-central/v/com.didiglobal.turbo/turbo.svg)](https://github.com/didi/turbo/releases)
+[![codecov](https://codecov.io/gh/didi/turbo/branch/master/graph/badge.svg)](https://codecov.io/gh/didi/turbo)
+
+| **星评增长时间线** |
+|:---------------------------------------------------------------------------------------------------------------------:|
+| [![Stargazers over time](https://starchart.cc/didi/turbo.svg)](https://starchart.cc/didi/turbo)|
 
 Turbo是一款Java实现的轻量级流程引擎，是公司内多个低代码平台的核心后端服务。
 

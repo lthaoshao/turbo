@@ -65,7 +65,7 @@
         <commons-collections4.version>4.4</commons-collections4.version>
         <commons-lang3.version>3.12.0</commons-lang3.version>
         <mysql-connector-java.version>8.0.28</mysql-connector-java.version>
-        <druid.version>1.1.20</druid.version>
+        <druid.version>1.2.22</druid.version>
         <baomidou-mybatis-plus.version>3.2.0</baomidou-mybatis-plus.version>
         <baomidou-dynamic-datasource.versioin>2.5.7</baomidou-dynamic-datasource.versioin>
         <java-uuid-generator.version>3.1.4</java-uuid-generator.version>
